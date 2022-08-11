@@ -5,7 +5,7 @@ function Description() {
     return(
         <div class="description-area">
                 <div class="description-titulo">
-                    um mundo de aventuras
+                    
                 </div>
                 <div class="description-content">
                     convide seus amigos pra um momento de
