@@ -6,7 +6,7 @@
     .letra{        
         width: 28px!important;
         height: 28px!important;       
-        font-size: 28px!important;
+        font-size: 20px!important;
     }
 }
 
@@ -17,6 +17,10 @@
 
     .banner-left, .banner-right {
         flex: 1!important;
+    }
+
+    .banner-left {
+        margin-top: 0px!important;
     }
 
     .banner-right {
@@ -37,8 +41,13 @@
         height: auto!important;
     }
 
+    .banner-left {
+        margin-top: 0px!important;
+        margin-bottom: 110px!important;
+    }
+
     .banner-right {
-        margin-top: 150px!important;
+        margin-top: 160px!important;
     }
 }
 
@@ -52,6 +61,11 @@
         height: 22px!important;
         font-size: 18px!important;
         margin: 5px!important;
+    }
+
+    .banner-left {
+        margin-top: 0px!important;
+        margin-bottom: 110px!important;
     }
 
     .banner-right {

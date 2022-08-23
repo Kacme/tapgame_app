@@ -1,4 +1,3 @@
-
 .header {
     height: 100px;
     width: 100vw;
@@ -10,32 +9,32 @@
 nav {
     height: 100%;
     display: flex;
-
+    padding-top: 8px;
 }
 
-nav .nav-left{
+nav .nav-left {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-nav .nav-rigth{
+nav .nav-rigth {
     flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.nav-linha{
+.nav-linha {
     display: flex;
     width: 100%;
     justify-content: center;
     align-items: center;
 }
 
-.letra{
-    background-color: rgb(247,189,35);
+.letra {
+    background-color: rgb(247, 189, 35);
     width: 40px;
     height: 40px;
     border-radius: 20px;
@@ -69,8 +68,7 @@ nav ul li {
     margin-right: 8px;
 }
 
-nav ul li a
-{
+nav ul li a {
     text-decoration: none;
     color: #FFF;
     font-size: 20px;
@@ -93,4 +91,3 @@ nav ul li a
     margin-top: 80px;
 
 }
-
