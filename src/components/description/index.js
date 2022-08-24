@@ -14,7 +14,7 @@ function Description() {
                     em comemoração aos 40 anos da unidade.
                     Boa diversão!
                     <div class="description-btn">
-                        <a href="http://itch.io/" target="_blank">DOWNLOAD</a>
+                        <a href="https://kacme.itch.io/" target="_blank">DOWNLOAD</a>
                     </div>
                 </div>
             </div>

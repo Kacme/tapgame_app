@@ -8,13 +8,13 @@ function Footer() {
         <div class="footer-center">
 
             <div class="redes-sociais">
-                <a href="http://facebook.com/adolfo.bocchi" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/kleberaugusto.moreno" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="http://instagram.com/adolfo.bocchi" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/kleber.acmoreno/" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-instagram"></i>
                 </a>
-                <a href="http://github.com/adolfobocchi" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Kacme" target="_blank" rel="noopener noreferrer">
                     <i class="fa fa-github"></i>
                 </a>
 
