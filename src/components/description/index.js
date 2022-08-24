@@ -8,9 +8,11 @@ function Description() {
                     
                 </div>
                 <div class="description-content">
-                    convide seus amigos pra um momento de
-                    diversão nesse mundo de aventuras
-                    cançando os monstros
+                    TapGame é um jogo desenvolvido
+                    pelos alunos do curso de desenvolvimento
+                    de jogos do SENAC - Presidente Prudente/SP
+                    em comemoração aos 40 anos da unidade.
+                    Boa diversão!
                     <div class="description-btn">
                         <a href="http://itch.io/" target="_blank">DOWNLOAD</a>
                     </div>

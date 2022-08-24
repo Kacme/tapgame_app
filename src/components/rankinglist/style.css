@@ -1,6 +1,6 @@
 .ranking-area, .meu-ranking-area {
     width: 310px;
-    height: auto;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,6 +8,7 @@
     border: 4px solid rgba(0, 74, 141);
     border-radius: 8px;
     background-color: rgba(0, 74, 141, 0.7);
+    overflow-y: scroll;
 }
 
 .ranking-header {
@@ -35,4 +36,20 @@
     flex-direction: column;
     width: 100%; 
     margin-top: 12px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #4C80AF;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 74, 141)
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(1, 115, 221)
 }
