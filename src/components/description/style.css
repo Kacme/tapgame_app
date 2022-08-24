@@ -17,12 +17,12 @@
 }
 
 .description-content {
-    width: 310px;
+    width: 410px;
     background-color: rgba(0, 74, 141, 0.7);
     padding: 16px;
     border-radius: 10px;
     font-size: 24px;
-    text-align: right;
+    text-align: center;
     color: #FFF;
 
 }
